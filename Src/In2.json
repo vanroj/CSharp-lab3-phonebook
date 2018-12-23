@@ -1,0 +1,54 @@
+{
+  "allp": [
+    {
+      "FirstName": "Дзержинский Феликс",
+      "Address": "РСФСР",
+      "City": "Дзержинск",
+      "State": "Горьковская область",
+      "ZipCode": "332211",
+      "PhoneNumber": "8-800-333-45-45",
+      "Email": "deadliberal@yandex.com",
+      "Info": "Всё грустно"
+    },
+    {
+      "FirstName": "Соколов Андрей",
+      "Address": "ПНР",
+      "City": "Варшава",
+      "State": "",
+      "ZipCode": "245712",
+      "PhoneNumber": "8-830-353-45-45",
+      "Email": "winghusar@poland.pl",
+      "Info": "Почему нельзя обращаться к файлу"
+    },
+    {
+      "FirstName": "Карл Штейн",
+      "Address": "ГДР",
+      "City": "В. Берлин",
+      "State": "",
+      "ZipCode": "123456",
+      "PhoneNumber": "8-800-333-43-25",
+      "Email": "",
+      "Info": "А приходится его пересоздавать?"
+    },
+    {
+      "FirstName": "Бита Рита",
+      "Address": "ВНР",
+      "City": "Будапешт",
+      "State": "",
+      "ZipCode": "234531",
+      "PhoneNumber": "8-833-333-45-45",
+      "Email": "",
+      "Info": "Это больно"
+    },
+    {
+      "FirstName": "Пустота",
+      "Address": "Где-то",
+      "City": "Не существует",
+      "State": "Повсюду",
+      "ZipCode": "000000",
+      "PhoneNumber": "8-666-999-66-99",
+      "Email": "",
+      "Info": "Всё в этом мире не совершенно"
+    }
+  ]
+}
